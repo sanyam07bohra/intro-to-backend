@@ -1,0 +1,24 @@
+{
+  "name": "codes",
+  "version": "1.0.0",
+  "description": "learning backend of web dev",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+   "start": "node src/index.js",
+   "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanyam07bohra/intro-to-backend.git"
+  },
+  "author": "sanyam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanyam07bohra/intro-to-backend/issues"
+  },
+  "homepage": "https://github.com/sanyam07bohra/intro-to-backend#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
